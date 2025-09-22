@@ -2,6 +2,7 @@
 
 This repository contains the datasets, processed features, results, and code used for **State-of-Health (SOH) prediction of lithium-ion batteries** with a focus on **Predictive Capability Transferable Capability and data sufficiency**.  
 The work involves two datasets (CALCE and TJU), extracted degradation-related features, and XGBoost-based predictive modeling.
+
 The repository structure is as follows:
 
 ---
