@@ -51,4 +51,10 @@ The repository structure is as follows:
 
 ---
 
+### 4. Access
+Correspondence to [Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) or [Lin Su](sul24@mails.tsinghua.edu.cn) and CC Prof. [Xuan Zhang](xuanzhang@sz.tsinghua.edu.cn) and [Guangmin Zhou](guangminzhou@sz.tsinghua.edu.cn) when you use, or have any inquiries.
 
+---
+
+### 5. Acknowledgements
+[Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) and [Lin Su](sul24@mails.tsinghua.edu.cn) at Tsinghua Berkeley Shenzhen Institute prepared the data, designed the model and algorithms, developed and tested the experiments, uploaded the model and experimental code, revised the testing experiment plan, and wrote this instruction document based on supplementary materials.
