@@ -52,7 +52,7 @@ The repository structure is as follows:
 ---
 
 ### 4. Access
-Correspondence to [Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) or [Lin Su](sul24@mails.tsinghua.edu.cn) and CC Prof. [Xuan Zhang](xuanzhang@sz.tsinghua.edu.cn) and [Guangmin Zhou](guangminzhou@sz.tsinghua.edu.cn) when you use, or have any inquiries.
+Correspondence to [Terence (Shengyu) Tao](mailto:terencetaotbsi@gmail.com) or [Lin Su](sul24@mails.tsinghua.edu.cn) and CC Prof. [Xuan Zhang](xuanzhang@sz.tsinghua.edu.cn)  when you use, or have any inquiries.
 
 ---
 
